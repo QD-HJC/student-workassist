@@ -1,0 +1,30 @@
+{
+  "name": "vue-work-study",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@ant-design/icons-vue": "^7.0.1",
+    "@vueup/vue-quill": "^1.5.5",
+    "ant-design-vue": "^4.2.6",
+    "axios": "^1.18.1",
+    "echarts": "^6.1.0",
+    "element-plus": "^2.14.2",
+    "pinia": "^3.0.4",
+    "quill": "^2.0.3",
+    "vant": "^4.10.0",
+    "vue": "^3.5.38",
+    "vue-i18n": "^9.14.4",
+    "vue-router": "^4.6.4",
+    "vue3-quill": "^0.3.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^6.0.7",
+    "vite": "^8.1.0"
+  }
+}
