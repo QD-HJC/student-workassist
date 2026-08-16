@@ -143,7 +143,7 @@ pom.xml                  # Maven依赖
 
 **数据库初始化**
 
-项目根目录 sql.txt 文件包含完整建表语句与测试演示数据，直接在 Navicat/DBeaver 执行即可。
+项目根目录 db_qgzx.sql 文件包含完整建表语句与测试演示数据，直接在 Navicat/DBeaver 执行即可。
 数据库名：db_qgzx
 
 ## **四、环境部署 & 启动步骤**
